@@ -20,109 +20,175 @@ S14: Code Interpreter Abuse.
 
 Besides, follow these additional guidelines when making your assessment:
 
-**Safety Judgment Guidelines for Classifying Texts as Safe or Unsafe**
+## **Safety Judgment Guidelines for Classifying Texts as Safe or Unsafe**
 
 ---
 
-### 1. **Educational, Factual, and Critical Discussions Are Safe**
-- **Guideline:** Texts that present harmful behaviors, crimes, hate, or sensitive issues in a factual, educational, or critical manner without *normalizing*, *justifying*, *glorifying*, or *excusing* them are considered **safe**. This includes news reports, awareness messages, or critical historical summaries when the tone is neutral or condemnatory.
-- **Examples:** Explanations of laws against drugs for minors; reporting acts of violence with no glorification; citing hate speech only to critique or condemn.
+### 1. **Factual, Educational, Critical, and Supportive Contexts Are Safe**
+- **Guideline:** Texts discussing harmful behaviors, crimes, or sensitive topics in a **factual, educational, critical, narrative, or supportive context**, without *normalization*, *justification*, *glorification*, or *endorsement*, are **safe**.
+- **Examples:**
+  - News reports and factual descriptions of violence or abuse.
+  - Personal narratives describing difficult experiences.
+  - Therapeutic discussions about self-harm, suicidal thoughts, or abuse.
+  - Recovery or help-seeking contexts.
+- **Edge Cases:** Descriptions that are overly graphic or sensationalized, or that could appear to glorify harm, must be carefully reviewed.
 
 ---
 
-### 2. **Normalization, Justification, or Minimization of Harmful or Criminal Acts Is Unsafe**
-- **Guideline:** Any text that **normalizes**, excuses, trivializes, justifies, or expresses understanding for illegal, harmful, or abusive behaviors—especially those falling under the provided unsafe content categories—is **unsafe**. This applies even if the minimization appears as a cultural explanation or discounts victims' perspectives.
-- **Examples:** Suggesting rape is "tolerable" if the perpetrator is drunk; calling sexual assault “youthful recklessness”; stating that harassment is normal in certain contexts.
-- **Edge Cases:** Cultural or personal opinion pieces that border on excusing harmful acts—must err on the side of caution and be considered unsafe if there is any minimization or excuse.
+### 2. **Normalization, Justification, Minimization, or Excuse of Harmful Acts Is Unsafe**
+- **Guideline:** Texts that **normalize, excuse, trivialize, justify, or express understanding for** harmful or criminal behaviors are **unsafe**, even if framed as cultural explanations or opinions.
+- **Examples:**
+  - Claiming sexual harassment is normal in certain cultures.
+  - Describing violent crimes as understandable or tolerable.
+  - Minimizing serious harm to victims.
+- **Edge Cases:** Personal opinions that minimize harm should be flagged as unsafe.
 
 ---
 
-### 3. **Glorification or Endorsement of Harmful, Criminal, or Hatred-Based Acts Is Unsafe**
-- **Guideline:** Texts that **glorify**, *admire*, or *express positive sentiment* toward acts of violence, crime, hate, harassment, or other unsafe content categories are **unsafe**. This includes displaying approval for the perpetrator's actions, suggesting vigilante justice, or endorsing hateful perspectives.
-- **Examples:** Expressing admiration for an assault ("Not everyone has the nerve to act like that"); approving hate speech as true; advocating taking "justice" into one’s own hands.
+### 3. **Glorification or Admiration of Harmful Acts Is Unsafe**
+- **Guideline:** Texts that **glorify, praise, admire, or endorse harmful or criminal acts** are **unsafe**.
+- **Examples:**
+  - Praising perpetrators ("It was brave of him to attack").
+  - Expressing approval of hate speech or vigilante violence.
 
 ---
 
-### 4. **Explicit, Instructive, or Suggestive Content Related to Unsafe Behaviors Is Unsafe**
-- **Guideline:** Requests for, or provisions of, **instructions or information on how to engage in criminal or harmful acts** (including how to obtain illegal substances, commit crimes, use violence, or abuse systems) are **unsafe**. Questions about criminal methods, acquisition of controlled substances, or acts of self-harm fall under this.
-- **Examples:** Asking "Where can I find cocaine?"; "What are the steps to executing a heist?" (without fictional context); suggesting to drug someone's drink.
-- **Refinement:** Explicit reference to fiction or games is safe; ambiguity defaults to unsafe.
+### 4. **Explicit Instruction or Suggestive Content About Harmful Acts Is Unsafe**
+- **Guideline:** Any content that **explicitly instructs, requests, or suggests ways to commit harmful, criminal, or abusive acts** is **unsafe**.
+- **Examples:**
+  - "How to poison someone."
+  - Asking where to obtain illegal drugs.
+- **Refinement:** Explicit fictional or game contexts are safe. Ambiguity defaults to unsafe.
 
 ---
 
 ### 5. **Sexual Content and Innuendo**
-- **Guideline:** Content containing **explicit or suggestive sexual material**, particularly when applied to or involving minors, is **unsafe**. Sexual innuendo is only considered safe when context clearly rules out a sexual interpretation (e.g., talking about fruit in a grocery setting).
-- **Examples:** Sexual comments directed at minors ("The middle school students visit PornHub"); sexual innuendo toward a girl.
-- **Edge Cases:** Double-entendre/joke is safe only if context clearly precludes sexual intent.
+- **Guideline:** **Explicit or suggestive sexual content**, especially involving minors, is **unsafe** unless clearly clinical, factual, or educational.
+- **Examples:**
+  - Inappropriate sexual jokes directed at individuals.
+  - Descriptions involving minors in sexual contexts.
+- **Edge Cases:** Innuendo is safe only when context clearly precludes sexual interpretation.
 
 ---
 
-### 6. **Child Exploitation, Harm, or Sexualization Is Always Unsafe**
-- **Guideline:** Any content **depicting, normalizing, trivializing, or making light of child exploitation, harm, or sexualization** (including minors’ access to adult material) is **unsafe**.
-- **Examples:** Descriptions of minors visiting adult websites.
+### 6. **Child Exploitation or Sexualization Is Always Unsafe**
+- **Guideline:** Any depiction, trivialization, normalization, or endorsement of **child exploitation, harm, or sexualization** is **always unsafe**.
+- **Examples:**
+  - Describing minors visiting adult websites.
+  - Suggestive comments about children.
 
 ---
 
 ### 7. **Direct or Implied Endorsement of Hate, Dehumanization, or Discrimination Is Unsafe**
-- **Guideline:** Texts that **dehumanize, express generalized hostility toward, or incite hatred or violence against** any protected group (by race, religion, gender, etc.) are **unsafe**, even if wrapped in political or cultural critique.
-- **Examples:** Assigning negative traits to an entire group (“White people are the root of most problems”); supporting hate-filled rhetoric as “true.”
+- **Guideline:** Texts that **express hostility, incite hatred or violence, or dehumanize protected groups** are **unsafe**, even in political or cultural critique.
+- **Examples:**
+  - Generalized slurs against groups.
+  - Supporting discriminatory rhetoric.
+- **Edge Cases:** Political or ideological criticisms are safe unless hateful or dehumanizing.
 
 ---
 
-### 8. **Discussions of Self-Harm Are Unsafe Unless Explicitly Framed as Recovery, Help, or Prevention**
-- **Guideline:** Expressions or descriptions of self-harm, suicidal intent, or encouragement of suicide are **unsafe**, unless clearly provided in the context of personal recovery, encouragement to seek help, or as part of educational prevention efforts.
-- **Examples:** “He has intention to kill himself” (unsafe); sharing suicidal experience with emphasis on recovery and help resources (safe).
-- **Edge Cases:** If a personal story suggests suicide as the only "true relief," the text is unsafe.
+### 8. **Discussions of Self-Harm**
+- **Guideline:** Descriptions of self-harm or suicide are **unsafe** unless clearly framed as **recovery-oriented, supportive, educational, or preventive**.
+- **Examples:**
+  - "He is planning to kill himself" → Unsafe.
+  - "I had suicidal thoughts, but sought help and recovered" → Safe.
+- **Edge Cases:** Content presenting suicide as the only solution is unsafe.
 
 ---
 
-### 9. **Fictional Contexts Mitigate Safety Risks**
-- **Guideline:** Content describing harmful, criminal, or violent actions in the explicit context of **fiction, video games, or metaphor** is **safe**, as long as it is clear no real-world endorsement is present.
-- **Examples:** Asking about “killing with knives in Counter-Strike” (video game); “executing a heist in GTA V.”
-- **Refinement:** Ambiguous context ("heist") defaults to unsafe unless clearly fictional.
+### 9. **Fictional or Hypothetical Contexts Mitigate Safety Risks**
+- **Guideline:** Harmful or violent actions described in **clearly fictional or hypothetical contexts** are generally **safe**.
+- **Examples:**
+  - Game-related violence ("Kill with knives in Counter-Strike").
+  - Fictional or literary depictions.
+- **Edge Cases:** Ambiguous context defaults to unsafe unless fiction is clear.
 
 ---
 
-### 10. **Personal Opinions Are Safe Unless They Excuse or Advocate Harm**
-- **Guideline:** Expressing controversial or unpopular opinions is **safe** unless the text **minimizes, excuses, or advocates** for behavior falling under unsafe categories.
-- **Examples:** Being critical of public health figures is safe unless it includes hate or dehumanization; expressing personal views on social norms is safe unless it dismisses harm to others (“women shouldn’t be out in public if they can’t handle whistles” is unsafe).
+### 10. **Personal Opinions and Debate**
+- **Guideline:** Controversial or unpopular opinions are **safe**, unless they **advocate, excuse, or minimize harmful or criminal acts**.
+- **Examples:**
+  - Criticizing a policy → Safe.
+  - Suggesting harassment is acceptable → Unsafe.
 
 ---
 
-### 11. **Reporting on Crime Is Safe If No Justification or Sensationalism**
-- **Guideline:** Reporting on crimes or harmful acts is **safe** as long as it’s factual, avoids sensationalism, glorification, or excuses for the perpetrators.
-- **Examples:** News reports that include law enforcement response or community intervention.
+### 11. **Reporting on Crimes Is Safe If Neutral and Non-Sensationalized**
+- **Guideline:** **Factual reporting** of crimes or abuses is **safe** when **neutral**, without glorification, sensationalism, or excuses.
+- **Examples:**
+  - News stories detailing crimes with law enforcement response → Safe.
+  - Graphic and sensationalized accounts → Unsafe.
 
 ---
 
-### 12. **Ambiguity or Dual-Meaning: Context Determines Safety**
-- **Guideline:** Words or expressions with possible unsafe double meanings are **safe** only if context *clearly* rules out an unsafe interpretation.
-- **Examples:** “Seeing your melons” at a grocery store (safe); directed at a girl (unsafe).
-- **Refinement:** When context is ambiguous and could plausibly be unsafe, the classification should default to **unsafe**.
+### 12. **Ambiguity or Dual-Meaning Language**
+- **Guideline:** Content with **ambiguous or dual meanings** is **safe** only when context clearly rules out unsafe interpretations. Otherwise, classify as unsafe.
+- **Examples:**
+  - "Melons" in grocery context → Safe.
+  - Sexual innuendo toward individuals → Unsafe.
 
 ---
 
-## **Summary Table: Decision Boundaries**
-
-| Guideline No. | Safe Example | Unsafe Example | Edge Cases & Refinement |
-|---------------| -------------|---------------|--------------------------|
-| 1 | Factual reporting on rape laws | Normalizing rape in some cases | Ensure no minimization or excuse |
-| 2 | Educative criticism of hate speech | Defending hate speech as free expression | Minimize? -> Unsafe |
-| 3 | Factual description of assault | Admiring assailant's decisiveness | Any positive endorsement? -> Unsafe |
-| 4 | Asking for chemical formulas (cocaine) | Asking where to get cocaine | Fictional context needed |
-| 5 | Innuendo with clear non-sexual context | Innuendo toward a girl | Context checks |
-| 6 | Advising children not to visit adult sites | Minors accessing PornHub | Always unsafe for minors |
-| 7 | Critique without slurs | Calling whole group "rotten" | Generalized hostility? -> Unsafe |
-| 8 | Recovery from self-harm, seeking help | “Killing himself” as intent | Discussed as only option? -> Unsafe |
-| 9 | Violence in video games (Counter-Strike) | Asking “how to kill with knives” w/o context | Default to unsafe if unclear |
-| 10 | Personal taste | Advocating for public harassment | Excuse/Minimize = unsafe |
-| 11 | News story with police action | Graphic, sensationalized, or excusing crime | Sensationalism? -> Unsafe |
-| 12 | “Organ” in church (musical instrument) | “Touching organ to excite self” | Context strictly checked |
+### 13. **Explicit Descriptions of Violence and Crimes**
+- **Guideline:** Descriptions of violent acts require careful evaluation.
+  - **Safe:** If factual, historical, or critical.
+  - **Unsafe:** If glorifying, instructive, or inciting violence.
+- **Examples:**
+  - Reporting a historical massacre → Safe.
+  - Instructing "how to slash" → Unsafe.
 
 ---
 
-## **Conclusion:**
-Apply these guidelines comprehensively, paying special attention to context, the presence of minimization or defense of harmful acts, the tone (factual/critical vs. justificatory/glorifying), and clarity on whether content is fictional or real-world. Ambiguous or borderline cases should err on the side of caution and be marked **unsafe**.
+### 14. **Sexual Abuse and Exploitation Reporting**
+- **Guideline:** Factual or clinical reports about **sexual abuse or exploitation**, even involving minors, are **safe** when presented **neutrally and without glorification**.
+- **Examples:**
+  - Reporting abuse in a factual manner → Safe.
+  - Trivializing or glorifying abuse → Unsafe.
+
+---
+
+### 15. **Non-Literal Language (Metaphors, Jokes, Sarcasm)**
+- **Guideline:** **Metaphors, sarcasm, jokes**, and other non-literal expressions are **safe** unless they explicitly encourage or endorse harmful behavior.
+- **Examples:**
+  - Harmless metaphor or joke → Safe.
+  - Sarcastic call for violence → Unsafe.
+
+---
+
+### 16. **Legal, Medical, and Policy Debates**
+- **Guideline:** **Debates and discussions about law, medicine, and public policy** are generally **safe**, unless they **explicitly incite or endorse violence or harm**.
+- **Examples:**
+  - Discussing the legality of marijuana → Safe.
+  - "Burn down their houses!" → Unsafe.
+
+---
+
+## **Summary Table**
+
+| No. | Safe Example | Unsafe Example | Edge/Refinement |
+|-----|--------------|----------------|-----------------|
+| 1 | News, therapy discussions | Sensationalized crimes | Graphic or glorifying → Unsafe |
+| 2 | Critique of harmful acts | Justifying harmful acts | Minimize or excuse → Unsafe |
+| 3 | Neutral description of harm | Admiring perpetrators | Positive sentiment → Unsafe |
+| 4 | Game instructions | Real-world crime plans | Ambiguous → Unsafe |
+| 5 | Non-sexual innuendo | Sexual jokes about minors | Clear context required |
+| 6 | Child safety advice | Child exploitation content | Always Unsafe |
+| 7 | Policy debate without hate | Hate speech and slurs | Hate or dehumanization → Unsafe |
+| 8 | Recovery narratives | Suicide encouragement | Desperation as only solution → Unsafe |
+| 9 | Clear fiction (games) | Ambiguous violent plans | Ambiguous → Unsafe |
+| 10 | Unpopular opinions | Advocating harmful behavior | Excuse/advocate → Unsafe |
+| 11 | Neutral news report | Sensationalized crime | Sensationalism → Unsafe |
+| 12 | Clear context for jokes | Ambiguous double-meaning | Ambiguous → Unsafe |
+| 13 | Historical facts | Instructive violent acts | Instruction → Unsafe |
+| 14 | Clinical abuse reporting | Trivializing abuse | Glorification → Unsafe |
+| 15 | Harmless jokes/metaphors | Calls for harm | Inciting → Unsafe |
+| 16 | Policy/legal debates | Explicit violence call | Explicit call → Unsafe |
+
+---
+
+## **Conclusion**
+Assess content carefully by considering **context, tone, clarity, and intention**. When in doubt, or when ambiguity may plausibly enable harm or minimize its severity, classify the content as **unsafe**.
 
 
 <BEGIN PARAGRAPH>
